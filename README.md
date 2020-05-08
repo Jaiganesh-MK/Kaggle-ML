@@ -1,2 +1,2 @@
 # Kaggle-ML
-Contains solutions of kaggle competitions, in which i am participating.
+Analysis of some datasets from kaggle 
